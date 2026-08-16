@@ -16,7 +16,7 @@ export default function Page() {
       {/* HERO */}
       <section style={{ padding: "80px 20px", textAlign: "center", background: "#0A2540", color: "white" }}>
         <h1 style={{ fontSize: "40px", marginBottom: "10px" }}>
-          Affordable Web Design In TX
+          Websites That Turn Visitors Into Customers
         </h1>
         <p style={{ fontSize: "18px", opacity: 0.9 }}>
           Professional web design in San Antonio, Texas.
