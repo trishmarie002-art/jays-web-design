@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Jay's Web Design",
+  title: "Cheap & Affordable Web Design in TX | Jay's Web Design Services",
   description: "Web design in San Antonio, TX",
 };
 
